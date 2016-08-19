@@ -1,3 +1,5 @@
+//finished reading
+
 # Resource and Scaffold Generator
 
 ## Objectives
